@@ -1,7 +1,7 @@
 # Adventure-Works-Sales-Dashboard
 ### I built an interactive Sales Performance Dashboard using Power BI based on the Adventure Works dataset.
 
-![Sales Dashboard](Adventure Works.png)
+![Sales Dashboard](Dashboard.png)
 
 📊 Key insights from the dashboard:
 - Total Sales: 74.13M
